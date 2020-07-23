@@ -1,0 +1,7 @@
+
+Para obtener el token de spotify, tengo que hacer un POST (postman) a la dirección https://accounts.spotify.com/api/token y pasar
+los parametros en el body/x-www-form-urlencoded:
+
+grant_type client_credentials
+cliend_id	a58e2a5db71c473a9a2ee3f38368ec6b
+client_secret	ef9f771accce4c6fa5354ae4886a2489
